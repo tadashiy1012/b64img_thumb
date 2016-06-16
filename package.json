@@ -1,0 +1,25 @@
+{
+  "name": "b64img_thumb",
+  "version": "1.0.0",
+  "description": "Read a thumbnail of the image in base64 format",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require intelli-espower-loader"
+  },
+  "keywords": ["image", "thumbnail", "base64"],
+  "author": "Tadashi Yamazaki <tadashi.y1012@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "intelli-espower-loader": "^1.0.1",
+    "mocha": "^2.5.3",
+    "power-assert": "^1.4.1"
+  },
+  "directories": {
+    "test": "test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:tadashiy1012/b64img_thumb.git"
+  },
+  "homepage": "https://github.com/tadashiy1012/b64img_thumb"
+}
