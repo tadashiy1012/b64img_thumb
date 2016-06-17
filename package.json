@@ -6,7 +6,11 @@
   "scripts": {
     "test": "mocha --require intelli-espower-loader"
   },
-  "keywords": ["image", "thumbnail", "base64"],
+  "keywords": [
+    "image",
+    "thumbnail",
+    "base64"
+  ],
   "author": "Tadashi Yamazaki <tadashi.y1012@gmail.com>",
   "license": "MIT",
   "devDependencies": {
@@ -21,5 +25,8 @@
     "type": "git",
     "url": "git@github.com:tadashiy1012/b64img_thumb.git"
   },
-  "homepage": "https://github.com/tadashiy1012/b64img_thumb"
+  "homepage": "https://github.com/tadashiy1012/b64img_thumb",
+  "dependencies": {
+    "resize-img": "^1.1.0"
+  }
 }
