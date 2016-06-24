@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tadashiy1012/b64img_thumb.svg?branch=master)](https://travis-ci.org/tadashiy1012/b64img_thumb)
 # b64img_thumb
 Read a thumbnail of the image in base64 format
 
